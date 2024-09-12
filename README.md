@@ -3,12 +3,13 @@ Opa, eu sou Bernardo Luz, um programador iniciante
 
 ##
 
-Estou estudando Html e Css, estou em constante aprendizado querendo aprender novas linguagens.
+Estudante de progrmação com paixão por desenvolvimento web. Atualmente, estou aprendendo Html Css e JavaScript. Busco oportunidades para colaborar em projetos e aprimorar minhas habilidades em programação e desenvolvimento web.
 
-<div>
-    
+
+<div>    
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tbakira&show_icons=true&theme=dark&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbakira&layout=compact&langs_count=168theme=dark"/>
+
+
 </div>
 
  
@@ -23,7 +24,7 @@ Estou estudando Html e Css, estou em constante aprendizado querendo aprender nov
 
 <div>
   <a href ="mailto:beluzmartins@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href
+  <a href ="https://www.instagram.com/eo_beee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 
